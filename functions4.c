@@ -1,6 +1,6 @@
 #include "monty.h"
 
-bus_t bus = {NULL, NULL, NULL, 0};
+val_t bus = {NULL, NULL, NULL, 0};
 /**
 * h_modulus - computes the rest of the division of the second
 * top element of the stack by the top element of the stack.
